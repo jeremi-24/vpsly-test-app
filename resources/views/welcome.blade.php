@@ -47,7 +47,7 @@
                     <h1 class="text-4xl font-bold tracking-tight text-white mb-2">
                         System <span class="text-blue-500">Dashboard</span>
                     </h1>
-                    <p class="text-slate-400 font-light">Surveillance en temps réel de votre déploiement VPSly.</p>
+                    <p class="text-blue-400 font-bold animate-pulse">Auto-Deploy via Webhook : TEST RÉUSSI ! 🚀</p>
                 </div>
                 <div class="text-right">
                     <span class="px-3 py-1 bg-green-500/10 text-green-400 rounded-full text-xs font-bold uppercase tracking-wider border border-green-500/20">
@@ -68,7 +68,7 @@
                     <div class="glass p-6 rounded-3xl">
                         <h3 class="text-lg font-semibold text-white mb-4 flex items-center gap-2">
                             <svg class="w-5 h-5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
-                            Server Resources
+                            VPSly Engine Status
                         </h3>
                         <div class="space-y-4">
                             <div>
