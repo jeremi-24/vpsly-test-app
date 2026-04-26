@@ -50,7 +50,7 @@
                 <h1 class="text-4xl font-bold tracking-tight text-white mb-2">
                     System <span class="text-blue-500">Dashboard</span>
                 </h1>
-                <p class="text-blue-400 font-bold animate-pulse">tyuau! </p>
+                <p class="text-blue-400 font-bold animate-pulse">etat stable! </p>
             </div>
             <div class="text-right">
                 <span
